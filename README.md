@@ -13,6 +13,8 @@ pip install -e .
 The further insturctions can be followed from https://huggingface.co/runwayml/stable-diffusion-v1-5 and  https://github.com/runwayml/stable-diffusion.
 
 Best outputs with the below prompts:
+
+
 ![image](https://github.com/user-attachments/assets/e95e7915-5a0a-4c68-8d82-b3653930adb2)
 
 1. Australian Currency With Coala
@@ -21,6 +23,9 @@ Best outputs with the below prompts:
 4. Coffee in mountains
 
 Average outputs with the below prompts: 
+
+
+
 ![image](https://github.com/user-attachments/assets/d9242fa6-876b-4e44-8228-36bef4407a0c)
 1. flying beer
 2. Indian flag on moon
